@@ -84,4 +84,4 @@ const init = () => {
 //event listener for form submission
 taskForm.addEventListener('submit', handleSubmission);
 //call the init function nto set up the initial state of the app
-init();  
+init();      
